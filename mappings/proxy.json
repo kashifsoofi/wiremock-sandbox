@@ -1,0 +1,9 @@
+{
+    "priority": 100,
+    "request": {
+        "urlPattern": "/.*"
+    },
+    "response" : {
+        "proxyBaseUrl": "https://jsonplaceholder.typicode.com"
+    }
+}
